@@ -70,4 +70,6 @@ This web application demonstrates CRUD (Create, Read, Update, Delete) operations
 
 ## Screenshots
 ![Student Management App Screenshot](1.png)
+
+
 ![Student Management App Screenshot](2.png)
