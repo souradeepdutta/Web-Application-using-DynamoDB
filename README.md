@@ -69,5 +69,5 @@ This web application demonstrates CRUD (Create, Read, Update, Delete) operations
 - Easy-to-use frontend for interacting with the API.
 
 ## Screenshots
-![Student Management App Screenshot](1.jpg)
-![Student Management App Screenshot](1.jpg)
+![Student Management App Screenshot](1.png)
+![Student Management App Screenshot](2.png)
